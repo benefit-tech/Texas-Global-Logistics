@@ -1,0 +1,35 @@
+        
+        img{
+            height: 40px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        .table{
+            border: 1px solid lightgray;
+        width: 100%;
+        
+        
+          
+        }
+   .first-line{
+    border: 1px solid lightgray;
+    background-color: #6C757D;
+   height: 60;
+
+   }
+   td{
+    border-bottom: 1px solid lightgray;
+   }
+   th{
+    background-color: #6C757D;
+   
+   }
+   tr, td{
+    border: 1px solid lightgray;
+   }
+ .invoice{
+    height: 15px;
+    width: 10px;
+    border-radius: 5px;
+    
+ }
