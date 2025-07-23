@@ -38,7 +38,7 @@ const trackingData = {
 
         <div class="shipment-header">
  <div>
-    <img src="icon/location.png" alt="">
+    <img src="location.png" alt="">
     <p>Arrived Pending Clearance</p>
 </div> 
 
